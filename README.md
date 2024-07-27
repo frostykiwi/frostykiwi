@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DJPNZ (Aka Daniel)
+- 👋 Hi, I’m @DJPNZ (You can call me Daniel)
 - 👀 I’m interested in music, gaming, and information technology
 - 🌱 I’m currently learning Unreal Engine, Blender, Python, Javascript
 - 💞️ I’m looking to collaborate on game development
